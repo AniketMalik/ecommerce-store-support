@@ -1,6 +1,6 @@
 # Change Logs
 
-## [ v1.2.1 ] - 8th April 2021 - Aniket Malik
+## [ v1.2.1 ] - 9th April 2021 - Aniket Malik
 * Fixed - Add reviews to the products. (Bug #5)
 
 ## [ v1.2.0 ] - 8th April 2021 - Aniket Malik
