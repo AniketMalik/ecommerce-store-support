@@ -1,10 +1,23 @@
 # Change Logs
 
-## [ v1.2.1 ] - 9th April 2021 - Aniket Malik
+## [ v1.3.0 ] - 10th April 2021 - Aniket Malik
+* Added - Now you have options to hide categories and tags list in
+ home, search filter modal and all products filter modal
+* Added - Show reward points in the product screen
+* Added - Fetch reward points for both simple and variable products and
+ variations
+* Added - Buy now option with add to cart in product screen bottom to jump to
+  cart directly.
+* Updated - WooCommerce Flutter package Api for application
+* Updated - WooStore Pro Api wordpress plugin for application
+* Updated - Like button on top of product screen.
+* Updated - On Sale banner animation.
+
+## [ v1.2.1 ] - 8th April 2021 - Aniket Malik
 * Fixed - Add reviews to the products. (Bug #5)
 
 ## [ v1.2.0 ] - 8th April 2021 - Aniket Malik
-* Added - Support for WooCommerce Rewards and Points, now the logged in
+* Added - Support for WooCommerce Points and Rewards plugin, now the logged in
  customers can see their points balance and events from the application
   directly. 
 * Added - Config Flag to hide/show the 'My Points' list tile in the 'Account
