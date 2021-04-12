@@ -1,5 +1,12 @@
 # Change Logs
 
+## [ v1.3.1 ] - 12th April 2021 - Aniket Malik
+* Fixed - Categories section not showing with multiple level of nested child
+ categories.
+* Updated - Child categories of child categories will be displayed as top
+ level categories as only 1 level deep nesting of child categories is
+  supported currently.
+
 ## [ v1.3.0 ] - 10th April 2021 - Aniket Malik
 * Added - Now you have options to hide categories and tags list in
  home, search filter modal and all products filter modal
