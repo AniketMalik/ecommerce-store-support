@@ -1,5 +1,10 @@
 # Change Logs
 
+## [ v1.3.2 ] - 13th April 2021 - Aniket Malik
+* Updated - WooStore Pro Api Wordpress Plugin to be independent of Simple JWT
+ login plugin and JWT Authentication for Wp-API plugin. Now this
+  functionality is integrated in the native plugin.
+
 ## [ v1.3.1 ] - 12th April 2021 - Aniket Malik
 * Fixed - Categories section not showing with multiple level of nested child
  categories.
