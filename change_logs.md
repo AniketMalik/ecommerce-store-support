@@ -1,5 +1,11 @@
 # Change Logs
 
+## [ v1.4.0 ] - 20th April 2021 - Aniket Malik
+* Added - Show login page to guest customer to access the following screens
+ -- My Orders, Profile Information, My Points, Shipping / Billing Address
+ , Change Password and other screens where only authenticated customers are
+  allowed.
+
 ## [ v1.3.2 ] - 13th April 2021 - Aniket Malik
 * Updated - WooStore Pro Api Wordpress Plugin to be independent of Simple JWT
  login plugin and JWT Authentication for Wp-API plugin. Now this
