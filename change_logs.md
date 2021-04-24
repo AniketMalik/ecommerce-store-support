@@ -1,5 +1,17 @@
 # Change Logs
 
+## [ v1.5.0 ] - 23rd April 2021 - Aniket Malik
+* Added - Multilingual feature, now the application can support
+ multiple languages in the application.
+* Added - Categories in the bottom tab bar for fast and easy access
+* Added - Show a horizontal list of child categories in the bottom of the
+ CategorisedProductsScreen Appbar for fast selection of child categories
+* Added - "categoriesScreenCrossAxisCount" flag in Config.dart to manage number
+ of columns of categories in the Category Screen
+* Added - "showCategoriesHorizontalListBelowCategorisedProductsAppBar" to
+ hide or show the horizontal list of child categories in the bottom of the
+  CategorisedProductsScreen Appbar 
+
 ## [ v1.4.0 ] - 20th April 2021 - Aniket Malik
 * Added - Show login page to guest customer to access the following screens
  -- My Orders, Profile Information, My Points, Shipping / Billing Address
