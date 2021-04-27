@@ -1,5 +1,11 @@
 # Change Logs
 
+## [ v1.5.1 ] - 27th April 2021 - Aniket Malik
+* Added - Support for Virtual Products for downloads
+* Added - showCustomerDownloadsListTile flag to hide or show downloads list
+ tile in the account settings screen
+* Updated - Account settings name to Account
+
 ## [ v1.5.0 ] - 23rd April 2021 - Aniket Malik
 * Added - Multilingual feature, now the application can support
  multiple languages in the application.
