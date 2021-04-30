@@ -1,5 +1,8 @@
 # Change Logs
 
+## [ v1.5.2 ] - 30th April 2021 - Aniket Malik
+* Improved - Apple Sign in capabilities and workflow.
+
 ## [ v1.5.1 ] - 27th April 2021 - Aniket Malik
 * Added - Support for Virtual Products for downloads
 * Added - showCustomerDownloadsListTile flag to hide or show downloads list
