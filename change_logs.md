@@ -1,5 +1,9 @@
 # Change Logs
 
+## [ v1.5.3 ] - 2nd May 2021 - Aniket Malik
+* Fixed - Cart item error when "sold individually" flag was not set to true
+ or false in woocommerce products.
+
 ## [ v1.5.2 ] - 30th April 2021 - Aniket Malik
 * Improved - Apple Sign in capabilities and workflow.
 
