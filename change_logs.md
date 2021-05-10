@@ -1,5 +1,10 @@
 # Change Logs
 
+## [ v1.5.4 ] - 11th May 2021 - Aniket Malik
+* Fixed - Sign up issue leading to Wordpress Rest No Route found issue.
+* Fixed - Cart loading issue when cart item product price was badly formatted.
+* Updated - Internal code enhancements to Woocommerce Flutter Package 
+
 ## [ v1.5.3 ] - 2nd May 2021 - Aniket Malik
 * Fixed - Cart item error when "sold individually" flag was not set to true
  or false in woocommerce products.
