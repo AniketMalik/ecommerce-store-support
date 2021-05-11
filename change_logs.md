@@ -1,5 +1,9 @@
 # Change Logs
 
+## [ v1.5.5 ] - 12th May 2021 - Aniket Malik
+* Updated - Home sections' internal data formatting methods. Previous version
+ sometimes had conflicts with Product Categories's ID and Product Tags.
+
 ## [ v1.5.4 ] - 11th May 2021 - Aniket Malik
 * Fixed - Sign up issue leading to Wordpress Rest No Route found issue.
 * Fixed - Cart loading issue when cart item product price was badly formatted.
