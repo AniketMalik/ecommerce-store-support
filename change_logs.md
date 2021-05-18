@@ -1,5 +1,15 @@
 # Change Logs
 
+## [ v1.5.6 ] - 18th May 2021 - Aniket Malik
+- Added `tools` directory which has scripts to generate required keys easily
+ by running some scripts.
+- Added signing information for Android Application with a default upload
+ keystore
+- Added A new web based extremely comprehensive documentation to setup the
+ application and the website, change the application logo, colors, etc.
+- Updated Theme configurations names to change the application colors more
+ easily.
+
 ## [ v1.5.5 ] - 12th May 2021 - Aniket Malik
 * Updated - Home sections' internal data formatting methods. Previous version
  sometimes had conflicts with Product Categories's ID and Product Tags.
