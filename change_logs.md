@@ -1,5 +1,12 @@
 # Change Logs
 
+## [ v1.6.0 ] - 23rd May 2021 - Aniket Malik
+- Added Support for `Dynamic Attributes` for variable products. ( Previously
+ only color and size were supported )
+- Updated UI to show `Dynamic Attributes` on product screen, cart item, my
+ orders item tiles.
+- Updated UI for attributes selection in product screen.
+
 ## [ v1.5.6 ] - 18th May 2021 - Aniket Malik
 - Added `tools` directory which has scripts to generate required keys easily
  by running some scripts.
