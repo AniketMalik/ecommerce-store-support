@@ -1,5 +1,40 @@
 # Change Logs
 
+## [ v1.7.0 ] - 27th May 2021 - Aniket Malik
+This update brings a lot of different layout options to choose from. Every new
+ option added can be modified from `config.dart` file.
+
+#### Product Screen
+- Added New `draggable-sheet` layout for Product Screen.
+- Added New `expandable` layout for Product Screen with image parallax effect.
+- Added Support for `Affiliate\External Products`.
+
+ Change this setting using `productScreenLayout` flag in `config.dart` file.  
+
+### Home Screen
+ - Added a new `Advanced Promotion Section` for home page to show promotional
+   images with more control. 
+
+#### Categories Screen and list
+  - Added New Categories Screen Layouts. Change settings from `config.dart
+` using the `categoriesScreenLayout` flag.
+
+  - Updated `categoriesScreenCrossAxisCount` to
+ `categoriesScreenGridLayoutCrossAxisCount`. This setting will only work if
+  `categoriesScreenLayout` is set to `grid`.
+
+  - Added New Layouts for Categories list in home screen. Change the layout
+ settings using `categoriesHomeScreenLayout` flag in `config.dart` file. 
+
+  - Added `categoriesHomeScreenGridLayoutCrossAxisCount` to change the grid
+ column count. This setting will only work if `categoriesHomeScreenLayout` is set
+  to `grid`.
+
+#### Others  
+  - Added `productItemCardOnSaleBanner` and `productItemCardOnSaleBannerDark
+` in `AppColors.dart` file to change the sale banner colors on product item card.
+
+
 ## [ v1.6.0 ] - 23rd May 2021 - Aniket Malik
 - Added Support for `Dynamic Attributes` for variable products. ( Previously
  only color and size were supported )
@@ -19,7 +54,7 @@
 
 ## [ v1.5.5 ] - 12th May 2021 - Aniket Malik
 * Updated - Home sections' internal data formatting methods. Previous version
- sometimes had conflicts with Product Categories's ID and Product Tags.
+ sometimes had conflicts with Product Categories' ID and Product Tags.
 
 ## [ v1.5.4 ] - 11th May 2021 - Aniket Malik
 * Fixed - Sign up issue leading to Wordpress Rest No Route found issue.
