@@ -4,7 +4,7 @@
 This update brings a lot of different layout options to choose from. Every new
  option added can be modified from `config.dart` file.
 
-#### Product Screen
+### Product Screen
 - Added New `draggable-sheet` layout for Product Screen.
 - Added New `expandable` layout for Product Screen with image parallax effect.
 - Added Support for `Affiliate\External Products`.
@@ -15,7 +15,7 @@ This update brings a lot of different layout options to choose from. Every new
  - Added a new `Advanced Promotion Section` for home page to show promotional
    images with more control. 
 
-#### Categories Screen and list
+### Categories Screen and list
   - Added New Categories Screen Layouts. Change settings from `config.dart
 ` using the `categoriesScreenLayout` flag.
 
@@ -30,7 +30,7 @@ This update brings a lot of different layout options to choose from. Every new
  column count. This setting will only work if `categoriesHomeScreenLayout` is set
   to `grid`.
 
-#### Others  
+### Others  
   - Added `productItemCardOnSaleBanner` and `productItemCardOnSaleBannerDark
 ` in `AppColors.dart` file to change the sale banner colors on product item card.
 
