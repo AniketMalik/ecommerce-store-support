@@ -1,5 +1,10 @@
 # Change Logs
 
+## [ v1.7.1 ] - 28th May 2021 - Aniket Malik
+- Fixed `lib/shared/widgets/itemAttributes.dart` import conflicts.
+- Fixed Cart Item quantity decrease from 1 leads to cart general state error
+- Updated Variation Data conversion in CoCartProductItem
+
 ## [ v1.7.0 ] - 27th May 2021 - Aniket Malik
 This update brings a lot of different layout options to choose from. Every new
  option added can be modified from `config.dart` file.
