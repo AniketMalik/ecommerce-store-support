@@ -1,9 +1,15 @@
 # Change Logs
 
+## [ v1.8.0 ] - 4th June 2021 - Aniket Malik
+- Added Notifications Screen to show saved notifications
+- Improved saving, adding and deleting notifications
+- Added Notification Tile in Profile Screen to go to notification screen
+
 ## [ v1.7.1 ] - 28th May 2021 - Aniket Malik
 - Fixed `lib/shared/widgets/itemAttributes.dart` import conflicts.
 - Fixed Cart Item quantity decrease from 1 leads to cart general state error
 - Updated Variation Data conversion in CoCartProductItem
+- Updated Enhanced discount calculation 
 
 ## [ v1.7.0 ] - 27th May 2021 - Aniket Malik
 This update brings a lot of different layout options to choose from. Every new
