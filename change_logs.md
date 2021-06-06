@@ -1,5 +1,14 @@
 # Change Logs
 
+## [ v1.9.0 ] - 6th June 2021 - Aniket Malik
+- Added Categories Section for Home Screen. Now show selected categories in
+ the home screen between other sections in various layouts
+- Added Tags Section for Home Screen. Now show selected tags in the
+ home screen between other sections in various layouts
+- Updated Advanced Promotion Section to show label based on the settings from
+ the wordpress sections dashboard. Default behaviour is hidden
+- Updated WooCommerce package for flutter
+
 ## [ v1.8.0 ] - 4th June 2021 - Aniket Malik
 - Added Notifications Screen to show saved notifications
 - Improved saving, adding and deleting notifications
