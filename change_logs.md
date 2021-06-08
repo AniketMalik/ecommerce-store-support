@@ -1,5 +1,8 @@
 # Change Logs
 
+## [ v1.9.1 ] - 8th June 2021 - Aniket Malik
+- Fixed Home page not fetching more than 10 sections on page end
+
 ## [ v1.9.0 ] - 6th June 2021 - Aniket Malik
 - Added Categories Section for Home Screen. Now show selected categories in
  the home screen between other sections in various layouts
