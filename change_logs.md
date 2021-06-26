@@ -1,5 +1,10 @@
 # Change Logs
 
+## [ v1.9.2 ] - 25th June 2021 - Aniket Malik
+* Minor changes:
+  - Change `logout` text to `login` if no user available.
+  - Reviews update locally on product page when adding a new review.
+
 ## [ v1.9.1 ] - 8th June 2021 - Aniket Malik
 - Fixed Home page not fetching more than 10 sections on page end
 
