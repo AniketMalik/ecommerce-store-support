@@ -1,5 +1,8 @@
 # Change Logs
 
+## [ v1.9.3 ] - 2nd July 2021 - Aniket Malik
+- Enhanced search functionality
+
 ## [ v1.9.2 ] - 25th June 2021 - Aniket Malik
 * Minor changes:
   - Change `logout` text to `login` if no user available.
