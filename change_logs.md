@@ -1,5 +1,9 @@
 # Change Logs
 
+## [ v1.9.4 ] - 6th July 2021 - Aniket Malik
+- Update WooStore Pro Api wordpress plugin to `v2.0.0` which includes
+ performance enhancements, reduction in dependency on CoCart plugins.
+
 ## [ v1.9.3 ] - 2nd July 2021 - Aniket Malik
 - Enhanced search functionality
 
