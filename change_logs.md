@@ -1,5 +1,9 @@
 # Change Logs
 
+## [ v1.10.0 ] - 9th July 2021 - Aniket Malik
+- Added Share Products to anyone from application's product screen.
+- Fix contact using email opened email app with contact us url
+
 ## [ v1.9.4 ] - 6th July 2021 - Aniket Malik
 - Update WooStore Pro Api wordpress plugin to `v2.0.0` which includes
  performance enhancements, reduction in dependency on CoCart plugins.
