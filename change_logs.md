@@ -1,5 +1,15 @@
 # Change Logs
 
+## [ v1.10.1 ] - 15th July 2021 - Aniket Malik
+- Updated WooCommerce Flutter sdk package to escape html characters
+- UI Enhancements
+  - Now categories' names will not shrink to show the full text, instead the
+   extra content will be clipped and replaced by an ellipsis ( "..." ).
+  - Fixed category name in `list-child-categories-visible` layout of
+   categories' screen which overflowed the container bounds.
+  - List scroll behaviour changed when loading more data after reaching the
+   end ( Now there is no reverse scrolling ).
+
 ## [ v1.10.0 ] - 9th July 2021 - Aniket Malik
 - Added Share Products to anyone from application's product screen.
 - Fix contact using email opened email app with contact us url
