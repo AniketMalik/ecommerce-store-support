@@ -1,5 +1,17 @@
 # Change Logs
 
+## [ v1.11.0 ] - 22nd July 2021 - Aniket Malik
+- Added sorting and more filter options for search, categorised products,
+ category products and tag products.
+- Added Filter attributes with support for image and color types ( supported
+ with Variation Swatches for WooCommerce Plugin ).
+- Added Add To Cart Button on each item card.
+- Added Support for Product Color and Image type attributes in product
+ details page ( supported with Variation Swatches for WooCommerce Plugin ).
+- Improved product item card review stars indicator.
+- Improved attributes in product detail page to show selected option with
+ attribute name
+
 ## [ v1.10.1 ] - 15th July 2021 - Aniket Malik
 - Updated WooCommerce Flutter sdk package to escape html characters
 - UI Enhancements
