@@ -1,5 +1,33 @@
 # Change Logs
 
+## [ v1.13.0 ] - 12th August 2021 - Aniket Malik
+- Added `Add a Review` button on completed order's product items so that only
+ the verified buyers can write a review only after the order has been
+  successful.
+  - Use `myOrdersShowAddReviewButtonForCompletedOrders` flag in config.dart
+   to enable / disable. ENABLED by default. 
+- Made product in order item clickable, will not open the given product in
+ the product details page.
+- Updated UI options for Product Details Bottom Button bar to arrange the
+ layout of the 'add to cart' and 'buy now' button. Choose from 3 different
+  layouts
+- Updated option to disallow users to add review for products if they have
+ not purchased it.
+  - Use `productScreenAllowReviewsWithoutPurchase` to update the setting
+  . Enabling it will remove the Add a Review button from the all review
+   screen. DISABLED by default.
+- Made Tags section clickable in product details screen.
+- Added Categories section in product details screen with clickable items to
+ see products linked to that category.
+
+## [ v1.12.0 ] - 24th July 2021 - Aniket Malik
+- Added Feature Firebase Dynamic Links
+- Improved Product share with Firebase Dynamic Links or normal url ( config
+ choice available )
+- Added `Share App` option to share the app with Firebase Dynamic Links
+- Added Config settings for firebase dynamic links in `config.dart` as
+ `FirebaseDynamicLinksConfig` class
+
 ## [ v1.11.0 ] - 22nd July 2021 - Aniket Malik
 - Added sorting and more filter options for search, categorised products,
  category products and tag products.
