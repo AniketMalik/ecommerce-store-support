@@ -1,5 +1,15 @@
 # Change Logs
 
+## [ v1.13.3 ] - 3rd September 2021 - Aniket Malik
+- Updated Facebook Login to use custom tabs as per facebook's updated 
+  requirements.
+
+## [ v1.13.2 ] - 28th August 2021 - Aniket Malik
+- Enhanced internal functionality of product management
+
+## [ v1.13.1 ] - 12th August 2021 - Aniket Malik
+- Fixed My orders Variable products not showing add review button
+
 ## [ v1.13.0 ] - 12th August 2021 - Aniket Malik
 - Added `Add a Review` button on completed order's product items so that only
  the verified buyers can write a review only after the order has been
