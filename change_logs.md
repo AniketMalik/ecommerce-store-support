@@ -1,5 +1,13 @@
 # Change Logs
 
+## [ v1.14.0 ] - 10th September 2021 - Aniket Malik
+- Added `productScreenShowVendorTile`, `productScreenVendorLayout` and 
+`productScreenVendorOriginalLayoutAspectRatio` flags to enable / modify the 
+  vendor functionality in the application.
+  Supported Vendors: Dokan, WCFM, WCMp
+- Requires WooCommerce Package version 1.6.0
+- Requires WooStore Pro Api wordpress plugin version 2.2.0
+
 ## [ v1.13.3 ] - 3rd September 2021 - Aniket Malik
 - Updated Facebook Login to use custom tabs as per facebook's updated 
   requirements.
