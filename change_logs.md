@@ -1,5 +1,8 @@
 # Change Logs
 
+## [ v1.14.1 ] - 19th September 2021 - Aniket Malik
+- Updated application and dependencies to support Flutter 2.5
+
 ## [ v1.14.0 ] - 10th September 2021 - Aniket Malik
 - Added `productScreenShowVendorTile`, `productScreenVendorLayout` and 
 `productScreenVendorOriginalLayoutAspectRatio` flags to enable / modify the 
