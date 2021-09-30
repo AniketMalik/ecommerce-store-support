@@ -1,5 +1,8 @@
 # Change Logs
 
+## [ v1.14.2 ] - 29th September 2021 - Aniket Malik
+* Fixed (#49) Related products not being pushed as it was the same route
+
 ## [ v1.14.1 ] - 19th September 2021 - Aniket Malik
 - Updated application and dependencies to support Flutter 2.5
 
