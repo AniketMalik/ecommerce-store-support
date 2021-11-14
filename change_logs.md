@@ -1,14 +1,18 @@
 # Change Logs
 
+## [ v2.1.0 ] - 13th November 2021 - Aniket Malik
+- Get shipping methods by calculating the cart items and products shipping 
+  classes.
+
 ## [ v2.0.1 ] - 1st November 2021 - Aniket Malik
 - Enhanced categories fetching
 - Empty coupon verification improved
 
 ## [ v2.0.0 ] - 25th October 2021 - Aniket Malik
 - Added Native Checkout Feature
-- Added `homePageAppBarShowCartIcon` and `homePageAppBarShowNotificationIcon` 
-to show or hide icons in home page app bar in config.dart
-- Added New Home Sections to show external_link and single product. 
+- Added `homePageAppBarShowCartIcon` and `homePageAppBarShowNotificationIcon`
+  to show or hide icons in home page app bar in config.dart
+- Added New Home Sections to show external_link and single product.
 
 ## [ v1.14.2 ] - 29th September 2021 - Aniket Malik
 * Fixed (#49) Related products not being pushed as it was the same route
