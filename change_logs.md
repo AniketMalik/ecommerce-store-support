@@ -1,5 +1,15 @@
 # Change Logs
 
+## [ v2.2.0 ] - 3rd December 2021 - Aniket Malik
+- Added Phone OTP Login
+- Added change attributes based on selection
+- Updated change password to require old and new password to perform the change
+  as it adds more security for the account holder
+- Updated session handler to force the user to log in after the session has 
+  been ended. 
+- [REQUIRED] WooStore Pro Api Version 3.2.0 or higher
+- [REQUIRED] WooCommere Flutter Package 3.2.0 or higher
+
 ## [ v2.1.0 ] - 13th November 2021 - Aniket Malik
 - Get shipping methods by calculating the cart items and products shipping 
   classes.
@@ -10,9 +20,9 @@
 
 ## [ v2.0.0 ] - 25th October 2021 - Aniket Malik
 - Added Native Checkout Feature
-- Added `homePageAppBarShowCartIcon` and `homePageAppBarShowNotificationIcon`
-  to show or hide icons in home page app bar in config.dart
-- Added New Home Sections to show external_link and single product.
+- Added `homePageAppBarShowCartIcon` and `homePageAppBarShowNotificationIcon` 
+to show or hide icons in home page app bar in config.dart
+- Added New Home Sections to show external_link and single product. 
 
 ## [ v1.14.2 ] - 29th September 2021 - Aniket Malik
 * Fixed (#49) Related products not being pushed as it was the same route
