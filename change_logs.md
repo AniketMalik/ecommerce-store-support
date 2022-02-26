@@ -1,5 +1,8 @@
 # Change Logs
 
+## [ v2.2.1 ] - 26th Feb 2021 - Aniket Malik
+- Fixed OTP test code causing issue with verification code
+
 ## [ v2.2.0 ] - 3rd December 2021 - Aniket Malik
 - Added Phone OTP Login
 - Added change attributes based on selection
@@ -20,9 +23,9 @@
 
 ## [ v2.0.0 ] - 25th October 2021 - Aniket Malik
 - Added Native Checkout Feature
-- Added `homePageAppBarShowCartIcon` and `homePageAppBarShowNotificationIcon` 
-to show or hide icons in home page app bar in config.dart
-- Added New Home Sections to show external_link and single product. 
+- Added `homePageAppBarShowCartIcon` and `homePageAppBarShowNotificationIcon`
+  to show or hide icons in home page app bar in config.dart
+- Added New Home Sections to show external_link and single product.
 
 ## [ v1.14.2 ] - 29th September 2021 - Aniket Malik
 * Fixed (#49) Related products not being pushed as it was the same route
