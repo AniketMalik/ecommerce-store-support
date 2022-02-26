@@ -1,6 +1,6 @@
 # Change Logs
 
-## [ v2.2.1 ] - 26th Feb 2021 - Aniket Malik
+## [ v2.2.1 ] - 26th Feb 2022 - Aniket Malik
 - Fixed OTP test code causing issue with verification code
 
 ## [ v2.2.0 ] - 3rd December 2021 - Aniket Malik
