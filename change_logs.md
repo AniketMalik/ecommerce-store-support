@@ -1,9 +1,15 @@
 # Change Logs
 
-## [ v2.2.2 ] - 8th March 2021 - Aniket Malik
+## [ v2.2.4 ] - 25th June 2022 - Aniket Malik
+- Enhanced Checkout fields keyboard integration
+
+## [ v2.2.3 ] - 22nd March 2022 - Aniket Malik
+- Fixed default signup urls cleanup.
+
+## [ v2.2.2 ] - 8th March 2022 - Aniket Malik
 - Fixed OTP UI keyboard issue
 
-## [ v2.2.1 ] - 26th Feb 2021 - Aniket Malik
+## [ v2.2.1 ] - 26th Feb 2022 - Aniket Malik
 - Fixed OTP test code causing issue with verification code
 
 ## [ v2.2.0 ] - 3rd December 2021 - Aniket Malik
