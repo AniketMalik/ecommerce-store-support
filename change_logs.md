@@ -1,5 +1,10 @@
 # Change Logs
 
+## [ v3.0.0 ] - 22nd August 2022 - Aniket Malik
+- Upgraded to use Flutter 3.0
+- Integrated App Builder for no-code app update
+- Migrated to null safety partially
+
 ## [ v2.2.4 ] - 25th June 2022 - Aniket Malik
 - Enhanced Checkout fields keyboard integration
 
@@ -32,9 +37,9 @@
 
 ## [ v2.0.0 ] - 25th October 2021 - Aniket Malik
 - Added Native Checkout Feature
-- Added `homePageAppBarShowCartIcon` and `homePageAppBarShowNotificationIcon`
-  to show or hide icons in home page app bar in config.dart
-- Added New Home Sections to show external_link and single product.
+- Added `homePageAppBarShowCartIcon` and `homePageAppBarShowNotificationIcon` 
+to show or hide icons in home page app bar in config.dart
+- Added New Home Sections to show external_link and single product. 
 
 ## [ v1.14.2 ] - 29th September 2021 - Aniket Malik
 * Fixed (#49) Related products not being pushed as it was the same route
