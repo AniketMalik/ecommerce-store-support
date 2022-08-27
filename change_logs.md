@@ -1,5 +1,14 @@
 # Change Logs
 
+## [ v3.0.2 ] - 25th August 2022 - Aniket Malik
+- Fixed search tag filters
+- Fixed social login hide/show with app builder
+- added splash screen loading while fetching app template
+
+## [ v3.0.1 ] - 24th August 2022 - Aniket Malik
+- Fixed webview checkout null error
+- Expanded Search Section for click in dynamic layout
+
 ## [ v3.0.0 ] - 22nd August 2022 - Aniket Malik
 - Upgraded to use Flutter 3.0
 - Integrated App Builder for no-code app update
