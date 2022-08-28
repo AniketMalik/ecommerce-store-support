@@ -1,5 +1,8 @@
 # Change Logs
 
+## [ v3.1.0 ] - 28th August 2022 - Aniket Malik
+- Added auto login functionality for webpage layout
+
 ## [ v3.0.2 ] - 25th August 2022 - Aniket Malik
 - Fixed search tag filters
 - Fixed social login hide/show with app builder
