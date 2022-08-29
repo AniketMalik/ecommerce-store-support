@@ -1,5 +1,12 @@
 # Change Logs
 
+## [ v3.1.2 ] - 29th August 2022 - Aniket Malik
+- Fixed product screen description not visible issue
+- Updated product screen's tags and categories horizontal list's default size
+
+## [ v3.1.1 ] - 29th August 2022 - Aniket Malik
+- Updated logic for forced login before add item to cart
+
 ## [ v3.1.0 ] - 28th August 2022 - Aniket Malik
 - Added auto login functionality for webpage layout
 
