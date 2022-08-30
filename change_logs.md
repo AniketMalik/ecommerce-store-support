@@ -1,5 +1,8 @@
 # Change Logs
 
+## [ v3.1.3 ] - 30th August 2022 - Aniket Malik
+- Fixed data classes conversion to map
+
 ## [ v3.1.2 ] - 29th August 2022 - Aniket Malik
 - Fixed product screen description not visible issue
 - Updated product screen's tags and categories horizontal list's default size
