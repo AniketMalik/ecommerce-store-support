@@ -1,5 +1,9 @@
 # Change Logs
 
+## [ v3.1.4 ] - 30th August 2022 - Aniket Malik
+- Show splash screen until the animation is complete
+- Enhanced product details screen initial product fetch navigation
+
 ## [ v3.1.3 ] - 30th August 2022 - Aniket Malik
 - Fixed data classes conversion to map
 
