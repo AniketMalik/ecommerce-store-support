@@ -1,5 +1,9 @@
 # Change Logs
 
+## [ v3.1.5 ] - 31st August 2022 - Aniket Malik
+- Remove push notification device token on user logout
+- Removed unnecessary dependency
+
 ## [ v3.1.4 ] - 30th August 2022 - Aniket Malik
 - Show splash screen until the animation is complete
 - Enhanced product details screen initial product fetch navigation
