@@ -1,5 +1,12 @@
 # Change Logs
 
+## [ v3.2.0 ] - 11th October 2022 - Aniket Malik
+- Added WooCommerce Product Addons Support
+- Removed Cocart plugin dependency in favor of WooStoreProCart
+- [REQUIRED] WooStore Pro Api Plugin Version 4.2.0
+- [RECOMMENDED] App Builder Version 1.4.0 to use
+  - Product Addons
+
 ## [ v3.1.5 ] - 31st August 2022 - Aniket Malik
 - Remove push notification device token on user logout
 - Removed unnecessary dependency
