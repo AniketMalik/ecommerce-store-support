@@ -1,5 +1,10 @@
 # Change Logs
 
+## [ v3.3.0 ] - 18th October 2022 - Aniket Malik
+- Added support for Digits - Phone OTP login / signup plugin
+- [REQUIRED] WooStore Pro Api Plugin Version 4.3.0
+- Added phone verification for signup and update profile
+
 ## [ v3.2.0 ] - 11th October 2022 - Aniket Malik
 - Added WooCommerce Product Addons Support
 - Removed Cocart plugin dependency in favor of WooStoreProCart
