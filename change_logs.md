@@ -1,5 +1,9 @@
 # Change Logs
 
+## [ v3.4.0 ] - 20th October 2022 - Aniket Malik
+- Added support for Photo Reviews for WooCommerce Plugin
+- [REQUIRED] WooStore Pro Api Plugin Version 4.4.0
+
 ## [ v3.3.0 ] - 18th October 2022 - Aniket Malik
 - Added support for Digits - Phone OTP login / signup plugin
 - [REQUIRED] WooStore Pro Api Plugin Version 4.3.0
