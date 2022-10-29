@@ -1,5 +1,9 @@
 # Change Logs
 
+## [ v3.4.1 ] - 29th October 2022 - Aniket Malik
+- Updated delete user functionality
+- [REQUIRED] WooStore Pro Api Plugin Version 4.4.2
+
 ## [ v3.4.0 ] - 20th October 2022 - Aniket Malik
 - Added support for Photo Reviews for WooCommerce Plugin
 - [REQUIRED] WooStore Pro Api Plugin Version 4.4.0
