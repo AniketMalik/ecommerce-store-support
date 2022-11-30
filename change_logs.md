@@ -1,8 +1,14 @@
 # Change Logs
 
+## [ v3.4.3 ] - 1st December 2022 - Aniket Malik
+- Fixed OnBoarding screen assets not showing issue
+
+## [ v3.4.2 ] - 10th November 2022 - Aniket Malik
+- Upgraded version for some dependencies
+
 ## [ v3.4.1 ] - 29th October 2022 - Aniket Malik
 - Updated delete user functionality
-- [REQUIRED] WooStore Pro Api Plugin Version 4.4.2
+- [REQUIRED] WooStore Pro Api Plugin Version 4.4.1
 
 ## [ v3.4.0 ] - 20th October 2022 - Aniket Malik
 - Added support for Photo Reviews for WooCommerce Plugin
