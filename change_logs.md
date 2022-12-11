@@ -1,5 +1,10 @@
 # Change Logs
 
+## [ v3.5.0 ] - 10st December 2022 - Aniket Malik
+- Added Native Payment Gateway support
+- Fixed billing and shipping address to use default country code
+to get country and states
+
 ## [ v3.4.3 ] - 1st December 2022 - Aniket Malik
 - Fixed OnBoarding screen assets not showing issue
 
