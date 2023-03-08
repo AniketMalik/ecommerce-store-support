@@ -1,9 +1,9 @@
 # Change Logs
 
-## [ v3.5.2 ] - 8th March 2022 - Aniket Malik
+## [ v3.5.2 ] - 8th March 2023 - Aniket Malik
 - Fixed All Products grid not showing more columns than 2
 
-## [ v3.5.1 ] - 11th Feb 2022 - Aniket Malik
+## [ v3.5.1 ] - 11th Feb 2023 - Aniket Malik
 - Removed unwanted user.phone set from userProvider
 
 ## [ v3.5.0 ] - 10st December 2022 - Aniket Malik
