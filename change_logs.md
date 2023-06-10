@@ -1,4 +1,14 @@
+
+
 # Change Logs
+
+## [ v3.7.0 ] - 6th June 2023 - Aniket Malik
+- Added All Brands, Brands screen
+- Added Product details missing perfect woocommerce brands section
+
+## [ v3.6.0 ] - 15th May 2023 - Aniket Malik
+- Fixed webview payment screen sending null payment response resulting in 
+  order delete 
 
 ## [ v3.5.2 ] - 8th March 2023 - Aniket Malik
 - Fixed All Products grid not showing more columns than 2
